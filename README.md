@@ -4,7 +4,7 @@ This code example demonstrates how to wakeup from DEEPSLEEP mode by using lifeti
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-ce240936-lifetime-counter-basic)
 
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDA5MzYiLCJTcGVjIE51bWJlciI6IjAwMi00MDkzNiIsIkRvYyBUaXRsZSI6Ildha2V1cCBmcm9tIERFRVBTTEVFUCB1c2luZyBsaWZldGltZSBjb3VudGVyIiwicmlkIjoic2F0b3MiLCJEb2MgdmVyc2lvbiI6IjEuMC4wIiwiRG9jIExhbmd1YWdlIjoiRW5nbGlzaCIsIkRvYyBEaXZpc2lvbiI6Ik1DRCIsIkRvYyBCVSI6IkFVVE8iLCJEb2MgRmFtaWx5IjoiQVVUTyBQU09DIn0=)
+[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDA5MzYiLCJTcGVjIE51bWJlciI6IjAwMi00MDkzNiIsIkRvYyBUaXRsZSI6Ildha2V1cCBmcm9tIERFRVBTTEVFUCB1c2luZyBsaWZldGltZSBjb3VudGVyIiwicmlkIjoic2F0b3MiLCJEb2MgdmVyc2lvbiI6IjEuMS4wIiwiRG9jIExhbmd1YWdlIjoiRW5nbGlzaCIsIkRvYyBEaXZpc2lvbiI6Ik1DRCIsIkRvYyBCVSI6IkFVVE8iLCJEb2MgRmFtaWx5IjoiQVVUTyBQU09DIn0=)
 
 
 ## Requirements
@@ -266,9 +266,10 @@ Infineon provides a wealth of data at [www.infineon.com](https://www.infineon.co
 
 Document title: *CE240936* – *Wakeup from DEEPSLEEP using lifetime counter*
 
-Version | Description of change
-------- | ---------------------
-1.0.0   | New code example
+ Version | Description of change
+ ------- | ---------------------
+ 1.0.0   | New code example
+ 1.1.0   | Changed Kit name to PSOC
 <br>
 
 
